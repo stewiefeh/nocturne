@@ -1,0 +1,19 @@
+# Nocturne
+
+> A fictional botanical perfumery, est. 1987. Six fragrances, one atelier, demo forms that send nothing.
+
+Nocturne is a FICTIONAL botanical perfumery. Every product, person, address, price, and quotation on this site is invented. The site is a design demonstration.
+
+## Structure
+- Home: /
+- Fragrances: /fragrances.html plus six product pages under /fragrances/
+- House: /atelier.html, /process.html, /materials.html
+- Journal: /journal.html plus three essays under /journal/
+- Commissions: /bespoke.html, /sittings.html
+- Reference: /stockists.html, /press.html, /faq.html, /contact.html
+- Legal: /privacy.html, /terms.html, /sitemap.html
+
+## Content notes
+- All content fictional; forms are demonstrations that send nothing.
+- No cookies, analytics, or third-party requests. One localStorage theme key (nb-theme).
+- Fonts: Bodoni Moda variable (opsz 6-96) + Karla variable, self-hosted WOFF2.
