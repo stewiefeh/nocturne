@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nocturne.pages.dev/sitemap.xml
+Sitemap: https://nocturne-2t0.pages.dev/sitemap.xml
